@@ -1,0 +1,41 @@
+.nav{
+    background-color: #FFFFFF
+   
+   
+   
+}
+.content-nav{
+       display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 346px;
+   
+    
+}
+#img-pic{
+    margin-left: 120px;
+}
+.features{
+    display: flex;
+    justify-content: space-between;
+   gap: 32px;
+   font-size: 16px;
+   line-height: 152%;
+   font-weight: lighter;
+   color: #001931;
+
+}
+.get-acceess{
+    margin-right: 120px;
+    background-color: #30B868;
+    width: 164px;
+    height: 44px;
+   
+
+   
+}
+.get-acceess h2{
+        font-size: 16px;
+        text-align: center;
+   
+}
